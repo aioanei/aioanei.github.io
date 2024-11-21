@@ -635,8 +635,7 @@
     }
   }
   
-  /* Horizontal bar on wide screens */
-  @media (min-width: 769px) {
+@media (min-width: 769px) {
     .contact-container {
       flex-direction: row;
       justify-content: space-between;
